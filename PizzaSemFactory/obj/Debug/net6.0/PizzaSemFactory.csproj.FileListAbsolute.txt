@@ -1,0 +1,15 @@
+C:\developer\dotnet\Projetos pra testar pequenas funcionalidades\FactoryPattern\PizzaSemFactory\bin\Debug\net6.0\PizzaSemFactory.exe
+C:\developer\dotnet\Projetos pra testar pequenas funcionalidades\FactoryPattern\PizzaSemFactory\bin\Debug\net6.0\PizzaSemFactory.deps.json
+C:\developer\dotnet\Projetos pra testar pequenas funcionalidades\FactoryPattern\PizzaSemFactory\bin\Debug\net6.0\PizzaSemFactory.runtimeconfig.json
+C:\developer\dotnet\Projetos pra testar pequenas funcionalidades\FactoryPattern\PizzaSemFactory\bin\Debug\net6.0\PizzaSemFactory.dll
+C:\developer\dotnet\Projetos pra testar pequenas funcionalidades\FactoryPattern\PizzaSemFactory\bin\Debug\net6.0\ref\PizzaSemFactory.dll
+C:\developer\dotnet\Projetos pra testar pequenas funcionalidades\FactoryPattern\PizzaSemFactory\bin\Debug\net6.0\PizzaSemFactory.pdb
+C:\developer\dotnet\Projetos pra testar pequenas funcionalidades\FactoryPattern\PizzaSemFactory\obj\Debug\net6.0\PizzaSemFactory.csproj.AssemblyReference.cache
+C:\developer\dotnet\Projetos pra testar pequenas funcionalidades\FactoryPattern\PizzaSemFactory\obj\Debug\net6.0\PizzaSemFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\developer\dotnet\Projetos pra testar pequenas funcionalidades\FactoryPattern\PizzaSemFactory\obj\Debug\net6.0\PizzaSemFactory.AssemblyInfoInputs.cache
+C:\developer\dotnet\Projetos pra testar pequenas funcionalidades\FactoryPattern\PizzaSemFactory\obj\Debug\net6.0\PizzaSemFactory.AssemblyInfo.cs
+C:\developer\dotnet\Projetos pra testar pequenas funcionalidades\FactoryPattern\PizzaSemFactory\obj\Debug\net6.0\PizzaSemFactory.csproj.CoreCompileInputs.cache
+C:\developer\dotnet\Projetos pra testar pequenas funcionalidades\FactoryPattern\PizzaSemFactory\obj\Debug\net6.0\PizzaSemFactory.dll
+C:\developer\dotnet\Projetos pra testar pequenas funcionalidades\FactoryPattern\PizzaSemFactory\obj\Debug\net6.0\ref\PizzaSemFactory.dll
+C:\developer\dotnet\Projetos pra testar pequenas funcionalidades\FactoryPattern\PizzaSemFactory\obj\Debug\net6.0\PizzaSemFactory.pdb
+C:\developer\dotnet\Projetos pra testar pequenas funcionalidades\FactoryPattern\PizzaSemFactory\obj\Debug\net6.0\PizzaSemFactory.genruntimeconfig.cache
